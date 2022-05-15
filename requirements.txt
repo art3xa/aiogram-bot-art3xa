@@ -1,0 +1,5 @@
+aiogram<3.0
+environs~=8.0.0
+requests~=2.27.1
+beautifulsoup4~=4.10.0
+wikipedia~=1.4.0

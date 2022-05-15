@@ -1,0 +1,186 @@
+[
+    {
+        "title": "CROSS HIKE MID GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/33310/",
+        "price_base": 15490,
+        "price_sale": 10790,
+        "discount_percent": 30
+    },
+    {
+        "title": "SENSE RIDE 4 INVISIBLE GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/33027/",
+        "price_base": 13990,
+        "price_sale": 9790,
+        "discount_percent": 30
+    },
+    {
+        "title": "SENSE 4 /PRO",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/119942/",
+        "price_base": 12990,
+        "price_sale": 8990,
+        "discount_percent": 31
+    },
+    {
+        "title": "PREDICT 2",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/111819/",
+        "price_base": 12990,
+        "price_sale": 8990,
+        "discount_percent": 31
+    },
+    {
+        "title": "CROSS OVER CHUKKA GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/30985/",
+        "price_base": 12490,
+        "price_sale": 8690,
+        "discount_percent": 30
+    },
+    {
+        "title": "X RAISE GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/3984/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_percent": 30
+    },
+    {
+        "title": "OUTline Prism mid GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/15912/",
+        "price_base": 12990,
+        "price_sale": 8990,
+        "discount_percent": 31
+    },
+    {
+        "title": "SONIC 4 CONFIDENCE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32895/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "SONIC 4 CONFIDENCE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/31021/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "SONIC 4 ACCELERATE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32953/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "SONIC 4 ACCELERATE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32968/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "SONIC 4 BALANCE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32829/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "SONIC 4 BALANCE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32814/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "LYNGEN MID GTX",
+        "category": "Хайкинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/118601/",
+        "price_base": 9990,
+        "price_sale": 6990,
+        "discount_percent": 30
+    },
+    {
+        "title": "OUTline Prism GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/15538/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_percent": 30
+    },
+    {
+        "title": "MADCROSS",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/118566/",
+        "price_base": 8990,
+        "price_sale": 6290,
+        "discount_percent": 30
+    },
+    {
+        "title": "MADCROSS",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/118655/",
+        "price_base": 8990,
+        "price_sale": 6290,
+        "discount_percent": 30
+    },
+    {
+        "title": "PREDICT MOD",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/71724/",
+        "price_base": 7990,
+        "price_sale": 5590,
+        "discount_percent": 30
+    },
+    {
+        "title": "PREDICT MOD",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/35103/",
+        "price_base": 7990,
+        "price_sale": 5590,
+        "discount_percent": 30
+    },
+    {
+        "title": "OUTline GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/3120/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_percent": 30
+    },
+    {
+        "title": "OUTline GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/3135/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_percent": 30
+    },
+    {
+        "title": "X ULTRA 3",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/4059/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "X RAISE",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/3969/",
+        "price_base": 9990,
+        "price_sale": 6990,
+        "discount_percent": 30
+    }
+]
