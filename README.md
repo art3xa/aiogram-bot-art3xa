@@ -1,3 +1,7 @@
 # mytgbot
 wanna get best tg bot
-"# aiogram-bot-art3xa" 
+
+## test telegram bot with parser
+
+Личный старый тестовый бот с парсером сайтов и работой с api сайта погоды
+Может получать определения с википедии, скидки на товары на сайте с кроссовками
